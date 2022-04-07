@@ -1,7 +1,0 @@
-version: "3.8"
-
-services:
-  mail:
-    build: ./
-    environment:
-      WEBHOOK_URL: https://hooks.slack.com/services/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
